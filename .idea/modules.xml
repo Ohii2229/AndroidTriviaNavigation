@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidTriviaNavigation.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidTriviaNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidTriviaNavigation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidTriviaNavigation.app.iml" />
     </modules>
   </component>
 </project>
